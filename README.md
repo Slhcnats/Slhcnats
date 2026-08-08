@@ -1,45 +1,50 @@
+<p align="center">
+  <img src="GithubBannerSlhcnats.png" alt="GitHub Banner" width="100%">
+</p>
+
 <h1 align="center">Hi, I'm Salih Can Ateş</h1>
 
 <p align="center">
-Computer Engineering Student
+Computer Engineering Student • Fırat University
 </p>
 
----
+<p align="center">
+Building software, learning continuously, and exploring AI technologies.
+</p>
 
-## About Me
+<br>
 
-I'm a Computer Engineering student passionate about building software and solving real-world problems through technology.
+## About
 
-Currently, I'm improving my skills by developing practical projects and exploring modern software development and artificial intelligence.
+I am a Computer Engineering student who enjoys learning new technologies, building meaningful projects, and continuously improving my software development skills.
 
----
+Currently focusing on:
+
+- Web Development
+- Artificial Intelligence
+- Cloud Technologies
+
+<br>
 
 ## Featured Projects
 
-### [AI QR Menu](https://github.com/Slhcnats/AIQRMenu)
+### AI QR Menu
 
-An AI-powered restaurant menu that provides personalized food recommendations.
+An AI-powered digital QR menu designed to provide intelligent recommendations and improve the restaurant experience.
 
-### [Zombie.exe](https://github.com/Slhcnats/Zombie.exe)
+### Zombie.exe
 
-A 2D top-down survival game developed with Unity, featuring enemy AI, combat mechanics, score tracking, and multiple gameplay systems.
+A 2D top-down survival game developed with Unity as part of my game development journey.
 
-## Goals
+More projects coming soon.
+## Technologies
 
-* Build software that solves real-world problems.
-* Develop practical and reliable applications.
-* Explore AI-powered solutions.
-* Continuously improve as a software engineer.
+`Java` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `Node.js` • `Supabase` • `Git`
 
----
+<br>
 
-## Connect
+## Currently Learning
 
-* LinkedIn
-* Email
-
----
-
-<p align="center">
-<i>Learning by building.</i>
-</p>
+- Artificial Intelligence
+- Next.js
+- Cloud Technologies
