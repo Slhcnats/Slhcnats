@@ -16,24 +16,13 @@ Currently, I'm improving my skills by developing practical projects and explorin
 
 ## Featured Projects
 
-### - **[AI QR Menu](repo-link)** — AI-powered restaurant menu with personalized food recommendations.
+### [AI QR Menu](https://github.com/Slhcnats/AIQRMenu)
 
 An AI-powered restaurant menu that provides personalized food recommendations.
 
-### - **[Zombie.exe](repo-link)** — 2D top-down survival game built with Unity.
+### [Zombie.exe](https://github.com/Slhcnats/Zombie.exe)
 
 A 2D top-down survival game developed with Unity, featuring enemy AI, combat mechanics, score tracking, and multiple gameplay systems.
-
----
-
-## Currently Learning
-
-* Next.js
-* TypeScript
-* AI Integration
-* Cloud Technologies
-
----
 
 ## Goals
 
