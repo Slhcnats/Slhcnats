@@ -8,9 +8,9 @@ Computer Engineering Student
 
 ## About Me
 
-I'm a Computer Engineering student who enjoys building software and learning modern technologies through hands-on projects.
+I'm a Computer Engineering student passionate about building software and solving real-world problems through technology.
 
-I'm interested in web development, artificial intelligence, and software engineering, and I enjoy turning ideas into practical applications while continuously improving my technical skills.
+Currently, I'm improving my skills by developing practical projects and exploring modern software development and artificial intelligence.
 
 ---
 
